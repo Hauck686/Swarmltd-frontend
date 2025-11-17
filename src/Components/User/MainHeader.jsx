@@ -249,9 +249,7 @@ export default function MainHeader () {
       <header className='dashboard-header'>
         <div className='logo-section'>
           <Link href='https://swarmltd.com/'>
-            <span className='brand-name'>
-              {process.env.NEXT_PUBLIC_APP_NAME}
-            </span>
+            <span className='brand-name'>swarmltd</span>
           </Link>
           {/* <img
             src='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'

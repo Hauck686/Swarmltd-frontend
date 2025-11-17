@@ -47,7 +47,7 @@ export default function ChatBot () {
                 className='chat-logo'
               />
               <div>
-                <strong>{process.env.NEXT_PUBLIC_APP_NAME} Ai.</strong>
+                <strong>swarmltd Ai.</strong>
                 <p className='status'>
                   <span className='green-dot' /> Ask me anything about Smart
                   Pocket.
@@ -96,7 +96,7 @@ export default function ChatBot () {
       ) : (
         <button className='chat-toggle' onClick={() => setOpen(true)}>
           💬
-          <span>Ask {process.env.NEXT_PUBLIC_APP_NAME} Ai</span>
+          <span>Ask swarmltd Ai</span>
         </button>
       )}
     </div>

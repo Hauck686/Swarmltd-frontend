@@ -80,10 +80,10 @@ export default function ForgotPasswordPage () {
   return (
     <div className='login'>
       <Head>
-        <title>Forgot Password | {process.env.NEXT_PUBLIC_APP_NAME}</title>
+        <title>Forgot Password | swarmltd</title>
         <meta
           name='description'
-          content='Forgot your {process.env.NEXT_PUBLIC_APP_NAME} account password?'
+          content='Forgot your swarmltd account password?'
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link

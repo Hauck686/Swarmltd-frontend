@@ -300,7 +300,7 @@ export default function AdminHeader () {
             className='brand-name'
           /> */}
           <a href='https://swarmltd.com/'>
-            <h3>{process.env.NEXT_PUBLIC_APP_NAME}</h3>
+            <h3>swarmltd</h3>
           </a>
         </div>
         <div className='header-actions'>

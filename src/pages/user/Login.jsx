@@ -72,11 +72,8 @@ export default function Index () {
     <div className='login'>
       {/* Site Head */}
       <Head>
-        <title>Login | {process.env.NEXT_PUBLIC_APP_NAME}</title>
-        <meta
-          name='description'
-          content='Login to your {process.env.NEXT_PUBLIC_APP_NAME} account'
-        />
+        <title>Login | swarmltd</title>
+        <meta name='description' content='Login to your swarmltd account' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
         <link
           rel='icon'
