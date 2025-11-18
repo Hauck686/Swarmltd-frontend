@@ -42,7 +42,7 @@ export default function ChatBot () {
           <div className='chat-header'>
             <div className='chat-header-info'>
               <img
-                src='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
+                src='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg'
                 alt='logo'
                 className='chat-logo'
               />

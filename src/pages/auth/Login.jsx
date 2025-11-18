@@ -73,10 +73,7 @@ export default function Login () {
         <title>Login | swarmltd</title>
         <meta name='description' content='Login to your swarmltd account' />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link
-          rel='icon'
-          href='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
-        />
+        <link rel='icon' href='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg' />
       </Head>
 
       <ToastContainer />

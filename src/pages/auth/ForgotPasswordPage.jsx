@@ -86,16 +86,13 @@ export default function ForgotPasswordPage () {
           content='Forgot your swarmltd account password?'
         />
         <meta name='viewport' content='width=device-width, initial-scale=1' />
-        <link
-          rel='icon'
-          href='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
-        />
+        <link rel='icon' href='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg' />
       </Head>
 
       <ToastContainer />
       <div className='login__container'>
         <Image
-          src='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
+          src='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg'
           alt='logo'
           className='login__img'
           width={50}

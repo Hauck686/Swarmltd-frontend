@@ -7,10 +7,6 @@ import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 
 const countries = [
-  { code: 'NG', name: 'Nigeria', dial: '+234' },
-  { code: 'GH', name: 'Ghana', dial: '+233' },
-  { code: 'KE', name: 'Kenya', dial: '+254' },
-  { code: 'ZA', name: 'South Africa', dial: '+27' },
   { code: 'US', name: 'United States', dial: '+1' },
   { code: 'GB', name: 'United Kingdom', dial: '+44' },
   { code: 'CA', name: 'Canada', dial: '+1' },
@@ -45,6 +41,10 @@ const countries = [
   { code: 'QA', name: 'Qatar', dial: '+974' },
   { code: 'KW', name: 'Kuwait', dial: '+965' },
   { code: 'OM', name: 'Oman', dial: '+968' },
+  { code: 'NG', name: 'Nigeria', dial: '+234' },
+  { code: 'GH', name: 'Ghana', dial: '+233' },
+  { code: 'KE', name: 'Kenya', dial: '+254' },
+  { code: 'ZA', name: 'South Africa', dial: '+27' },
   { code: 'EG', name: 'Egypt', dial: '+20' },
   { code: 'MA', name: 'Morocco', dial: '+212' },
   { code: 'DZ', name: 'Algeria', dial: '+213' },

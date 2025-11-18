@@ -8,7 +8,7 @@ class MyDocument extends Document {
           {/* Basic Meta Tags */}
           <meta charSet='UTF-8' />
           <meta name='viewport' content='width=device-width, initial-scale=1' />
-          <meta name='theme-color' content='#000000' />
+          <meta name='theme-color' content='#29484D' />
 
           {/* Primary SEO Meta */}
           <meta
@@ -38,7 +38,7 @@ class MyDocument extends Document {
           />
           <meta
             property='og:image'
-            content='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
+            content='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg'
           />
 
           {/* Twitter Meta */}
@@ -54,14 +54,11 @@ class MyDocument extends Document {
           />
           <meta
             name='twitter:image'
-            content='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
+            content='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg'
           />
 
           {/* Favicon */}
-          <link
-            rel='icon'
-            href='https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png'
-          />
+          <link rel='icon' href='https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg' />
 
           {/* Google Fonts */}
           <link rel='preconnect' href='https://fonts.googleapis.com' />
@@ -84,7 +81,7 @@ class MyDocument extends Document {
                 '@type': 'FinancialService',
                 name: 'swarmltd',
                 url: 'https://www.swarmltd.com',
-                logo: 'https://res.cloudinary.com/da26wgev2/image/upload/v1761134034/receipts/bmnhjzee3cynfi5w3djz.png',
+                logo: 'https://i.postimg.cc/7YFyGKJ9/swarmltd.jpg',
                 description:
                   'swarmltd provides secure investment, flexible loan, and savings services designed to help individuals and businesses grow wealth confidently.',
                 sameAs: [
