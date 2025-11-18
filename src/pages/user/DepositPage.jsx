@@ -463,10 +463,7 @@ function DepositPageContent () {
         {convertedAmount > 0 && method !== 'card' && (
           <div className='conversion-box'>
             <p>
-              You’ll receive approx{' '}
-              <b>
-                {convertedAmount.toFixed(6)} {selectedSymbol}
-              </b>
+              You’ll receive approx <b>${convertedAmount.toFixed(6)}</b>
             </p>
           </div>
         )}

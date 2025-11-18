@@ -49,7 +49,7 @@
   align-items: center;
 }
 .loanapp-tab.active {
-  border: 2px solid #ffb800;
+  border: 2px solid var(--accent);
   background: #18181b;
 }
 .tab-term {
@@ -103,7 +103,7 @@
   margin-left: 4px;
 }
 .loanapp-max-btn {
-  color: #ffb800;
+  color: var(--accent);
   background: none;
   border: none;
   font-weight: 700;
@@ -133,7 +133,7 @@
   color: #fff;
 }
 .loanapp-filename {
-  color: #ffb800;
+  color: var(--accent);
   margin-left: 10px;
 }
 .loanapp-repay-row {
@@ -153,7 +153,7 @@
 }
 .loanapp-btn-active,
 .loanapp-btn:active {
-  background: #ffb800 !important;
+  background: var(--accent) !important;
   color: #000 !important;
 }
 .loanapp-tos-row {
@@ -164,12 +164,12 @@
   color: #aaa;
   font-size: 13px;
   a.loanapp-link {
-    color: #ffb800;
+    color: var(--accent);
     text-decoration: underline;
   }
 }
 .loanapp-borrow-btn {
-  background: #ffb800 !important;
+  background: var(--accent) !important;
   color: #000 !important;
   border-radius: 12px !important;
   font-size: 1.15rem !important;
@@ -177,7 +177,7 @@
   margin-top: 12px;
   transition: background 0.15s;
   &:hover:enabled {
-    background: #e2a300 !important;
+    background: var(--accent) !important;
   }
   &:disabled {
     background: #444 !important;
