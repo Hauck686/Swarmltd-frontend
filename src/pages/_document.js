@@ -27,7 +27,7 @@ class MyDocument extends Document {
 
           {/* Open Graph / Facebook */}
           <meta property='og:type' content='website' />
-          <meta property='og:url' content='https://www.smartpocket.com/' />
+          <meta property='og:url' content='https://www.swarmltd.com/' />
           <meta
             property='og:title'
             content='swarmltd | Trusted Investment, Loan & Savings Company'
@@ -85,9 +85,9 @@ class MyDocument extends Document {
                 description:
                   'swarmltd provides secure investment, flexible loan, and savings services designed to help individuals and businesses grow wealth confidently.',
                 sameAs: [
-                  'https://facebook.com/smartpocket',
-                  'https://twitter.com/smartpocket',
-                  'https://instagram.com/smartpocket'
+                  'https://facebook.com/swarmltd',
+                  'https://twitter.com/swarmltd',
+                  'https://instagram.com/swarmltd'
                 ]
               })
             }}
